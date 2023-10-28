@@ -1,10 +1,14 @@
 .container {
     margin-bottom: 50px;
   }
- 
+
 .carousel-indicators .active {
     height: 10px;
     width: 40px;
     border-radius: 12px;
     background-image: linear-gradient(to right, #ff8206, #ffd019);
+}
+#see{
+  color: orange;
+  font-size: 15px;
 }
