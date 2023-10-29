@@ -1,12 +1,16 @@
 .container {
     margin-bottom: 50px;
   }
-  
+
 .carousel-indicators .active {
     height: 10px;
     width: 40px;
     border-radius: 12px;
     background-image: linear-gradient(to right, #ff8206, #ffd019);
+}
+.card{
+  border: none;
+  box-shadow: 1px 1px 5px #80808080;
 }
 #see{
   color: orange;
