@@ -12,3 +12,9 @@
   color: orange;
   font-size: 15px;
 }
+.underline-block{
+  width: 80px;
+  height: 8px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right, #ff8206, #ffff00);
+}
