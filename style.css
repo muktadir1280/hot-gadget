@@ -1,7 +1,7 @@
 .container {
     margin-bottom: 50px;
   }
-
+  
 .carousel-indicators .active {
     height: 10px;
     width: 40px;
@@ -17,4 +17,12 @@
   height: 8px;
   border-radius: 5px;
   background-image: linear-gradient(to right, #ff8206, #ffff00);
+}
+#contact{
+  background-color: #feeae8;
+  border-radius: 10px;
+  height: 300px;
+}
+.footer{
+  text-align: center;
 }
